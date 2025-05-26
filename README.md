@@ -19,5 +19,8 @@ Scan local network using Nmap and identify open ports.
 ## Screenshots
 (Screenshots uploaded in this repo)
 
+## Save the result in txt file
+(File task-1 uploaded in this repo)
+
 ## Result
 Successfully identified exposed ports on the local network.
